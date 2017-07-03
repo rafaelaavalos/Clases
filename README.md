@@ -31,3 +31,5 @@ lorempixel.com > ayuda
 img src= url
 
 *container: caja de color que va detrás
+
+@import url(poner el link de google fonts:700,300)
