@@ -29,3 +29,5 @@ poner fotos en el readme Markdown cheatsheets ![alt .... (buscar)
 lorempixel.com > ayuda
 
 img src= url
+
+*container: caja de color que va detrás
